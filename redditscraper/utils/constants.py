@@ -1,4 +1,4 @@
-VERSION = "v0.0.1"
+VERSION = "v1.0.0"
 PACKAGE_NAME = "redditSubmissionDownloader"
 USER_AGENT_TEMPLATE = "python:" + PACKAGE_NAME + ":" + VERSION + " (by /u/{})"
 

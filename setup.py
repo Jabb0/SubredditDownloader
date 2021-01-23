@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+from redditscraper.utils.constants import VERSION
 
 
 def read_file(file_name):
@@ -9,7 +10,7 @@ def read_file(file_name):
 
 setup(
     name='subredditdownloader',
-    version='1.0.0',
+    version=VERSION,
     packages=find_packages(),
     url='https://github.com/Jabb0/SubredditDownloader',
     license='MIT',
