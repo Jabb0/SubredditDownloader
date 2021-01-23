@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-from redditscraper.utils.constants import VERSION
+from subredditdownloader.utils.constants import VERSION
 
 
 def read_file(file_name):
