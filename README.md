@@ -4,8 +4,6 @@
 
 ## Description
 
-While there are many financial blogs on the internet where investors seek advice or share their opinions, *Reddit* is one of the most commonly used. Thus, knowledge of its content may enhance investors’ judgements of financial market conditions and lead to better decision making.
-
 The aim of this repo is to create a database of news posted on *Reddit World News* and their respective date, time and author. Furthermore, the code should be written in such a format that the database of news can easily be updated on a daily basis.
 
 # Architecture
