@@ -1,0 +1,6 @@
+click
+requests
+zstandard
+praw
+psaw
+pandas
